@@ -1,2 +1,3 @@
 # Demodiscourse
-This is test repo for discourse
+This is a test repo for discourse
+Author - Gaurav kumar
